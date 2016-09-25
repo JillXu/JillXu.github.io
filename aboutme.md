@@ -4,7 +4,7 @@ title: About me
 subtitle: This is me
 ---
 
-My name is Zhijian Jiang. I have the following qualities:
+My name is Jill Xu. I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
